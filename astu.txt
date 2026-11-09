@@ -1,0 +1,162 @@
+ASTU New Student Knowledge Base
+Source document for a RAG assistant that answers new-student questions about Adama Science and Technology University (ASTU). Compiled November 2026 from ASTU's official website, official PDFs and a few third-party sources. Each section is self-contained so it can be retrieved on its own. Items marked [VERIFY] change often or come from non-official sources; confirm them with the Registrar before treating them as final.
+1. University Overview
+Name: Adama Science and Technology University (ASTU). Amharic: አዳማ ሳይንስና ቴክኖሎጂ ዩኒቨርሲቲ.
+Type: Public university in Adama, Oromia Region, Ethiopia. It is one of the two national Science and Technology universities of Ethiopia; the other is Addis Ababa Science and Technology University (AASTU).
+Motto: "We are Dedicated to Innovative Knowledge!"
+Mission (summary): Provide quality education in science and technology, conduct problem-solving research, provide demand-driven community service, and serve as a center for innovative knowledge and technology transfer.
+Mandate: ASTU exists to support Ethiopia's industrial development by producing competent graduates in science and technology fields. Its schools and programs support national centers of excellence in science and technology.
+Postal address: P.O. Box 1888, Adama, Ethiopia. Website: www.astu.edu.et
+Size [VERIFY]: A third-party ranking site lists enrollment in the 20,000–24,999 range. This is not an official figure.
+Female students: ASTU's website states it enrolled more than 1,973 regular female students (figure from the official offices page; may be dated).
+2. History Timeline
+• 1993: Founded as Nazareth Technical College (NTC), offering degree and diploma education in technology fields.
+• May 2006: Inaugurated as Adama University, adding programs in other areas.
+• 2008: Designated a Center of Excellence in Technology by the Ministry of Education [VERIFY: from a third-party summary].
+• May 2011: The Council of Ministers renamed it Adama Science and Technology University, and the university moved from the Ministry of Education to the Ministry of Science and Technology.
+• 2008 onward: Postgraduate studies began with PhD by research in a few departments and grew into full graduate studies.
+• Curriculum: The undergraduate curriculum was developed by benchmarking leading science and technology universities (POSTECH and KAIST, per ASTU promotional material).
+Note: some third-party sites give conflicting dates for the name change. The official sources say May 2011.
+3. Leadership and Key Offices
+• President (2025 reports): Dr. Lemi Guta [VERIFY: leadership changes].
+• Vice President for Academic Affairs (VPAA): Responsible for planning, implementing and coordinating educational programs; supervises the colleges and academic directorates.
+• Vice President for Administration and Development (VPAD): Overall responsibility for student affairs and services (Dr. Solomon Tiruneh in 2025 [VERIFY]).
+• Dean of Student Services (DSS): Primary contact for campus life, student welfare, dormitories, health, recreation, guidance and counseling. Also helps resolve student problems and enforces the student code of conduct.
+• Associate Dean for Student Service (ADSS): Day-to-day student living, including cafeteria and dormitory services, quality and sanitation.
+• Women and Social Affairs Executive / Gender Affairs Directorate: Student welfare units and gender issues: counseling, legal protection from abuse, harassment and violence, and targeted support for female, disabled and needy students.
+• Student Admission and Registration (SAR) / Registrar: Admission, placement, registration, academic calendar, course scheduling, student records.
+• Educational Quality Enhancement Directorate (EQED): Academic standards, program rules, curriculum advice, quality assurance.
+• International Relations and Corporate Communications: Public communication, international partnerships, alumni relations.
+• Ethics and Code of Conduct Committee (ECCC) and Student Discipline Committee (SDC): Handle ethics violations and investigate conduct breaches.
+4. Contact Information
+• Registrar (SAR): +251-221-100001, sar@astu.edu.et
+• International Relations and Corporate Communications: +251-22-211-3961, irccd@astu.edu.et
+• Student registration portal help: stadmin@astu.edu.et
+• College of Applied Natural Science (CoANS) dean's office: deanoffice.coans@astu.edu.et; CoANS registrar: coansr@astu.edu.et
+• College of Mechanical, Chemical and Materials Engineering (CoMCME) quality office: +251-221-100057, somcme.asqa@astu.edu.et
+• College of Electrical Engineering and Computing (CoEEC): main line listed in a 2025 student handbook as +221100076 [VERIFY]
+• Official social channel: Telegram @ASTU_Network
+5. Colleges and Schools
+ASTU's official pages describe the academic structure as schools (the website name) and colleges (the abbreviations used by units). The main four academic units are:
+1. School/College of Applied Natural Sciences (SoANS / CoANS)
+2. School/College of Civil Engineering and Architecture (SoCEA / CoCEA)
+3. School/College of Electrical Engineering and Computing (SoEEC / CoEEC)
+4. School/College of Mechanical, Chemical and Materials Engineering (SoMCME / CoMCME)
+A third-party directory also lists a fifth unit, the Artificial Insemination Institute in Asella [VERIFY]. Older sources mention seven schools and earlier structures; the four-unit structure above is the one on the current admission pages.
+6. Undergraduate Programs
+Source: ASTU admission page "Schools and Programs".
+6.1 Applied Natural Sciences (4-year programs)
+Applied Biology, Applied Chemistry, Applied Geology, Applied Mathematics, Applied Physics.
+6.2 Civil Engineering and Architecture (5-year programs)
+Architecture, Civil Engineering, Construction Technology and Management, Urban Planning and Design, Geomatics Engineering, Water Resources Engineering.
+6.3 Electrical Engineering and Computing (5-year programs)
+Computer Science and Engineering, Electronics and Communication Engineering, Electrical Power and Control Engineering (EPCE).
+6.4 Mechanical, Chemical and Materials Engineering (5-year programs)
+Chemical Engineering, Materials Science and Engineering, Mechanical Design and Manufacturing Engineering, Mechanical Systems and Vehicle Engineering, Thermal and Aerospace Engineering.
+6.5 Programs listed on the 2026 admission portal [VERIFY]
+The national placement/exam portal (stuexam.astu.edu.et) lists for ASTU: Applied Geology, Applied Mathematics, Applied Physics, Industrial Chemistry, Pharmacy, Architecture, Civil Engineering, Water Resources Engineering, Computer Science and Engineering, Electronics and Communication Engineering, Electrical Power and Control Engineering, Software Engineering, Chemical Engineering, Material Science and Engineering, and Mechanical Engineering. This differs from the website list, so program names and availability for your intake year should be confirmed with the Registrar.
+6.6 Enrollment capacity
+The admission page states new-student enrollment capacity of about 200 for Science and 1,080 for Engineering (page dated around 2024) [VERIFY].
+6.7 Q&A
+Q: How long are ASTU undergraduate programs? Natural science programs are 4 years; engineering and architecture programs are 5 years.
+Q: Can I study medicine or law at ASTU? The programs listed above are all science, engineering and technology. Medicine and law are not in ASTU's main program list.
+Q: Can students design their own curriculum? ASTU's course catalog says it has a system where students can design a curriculum fitting their interests and future plans within the engineering schools and the natural science school. Ask your academic advisor how this works for your program.
+7. Freshman Program (First Year)
+• Students admitted to ASTU are grouped into Pre-Engineering and Pre-Applied Natural Science (since the 2015/16 Ethiopian academic year).
+• The Freshman Division runs learning communities and seminars to help first-year students move from the pre-engineering or pre-natural-science stage into a major.
+• Freshman seminars help students explore and decide their major, and give contact with all schools and programs.
+• The division introduces new students to student clubs, leadership, student service offices, recreation and sports events.
+• ASTU states that it gives special treatment and swift services to freshman students.
+• New students attend an orientation program run with the Office of Student Admission and Registration and other offices; the Student Union president usually welcomes new students and explains union services.
+Q: Do I choose my department when I arrive? First-year students begin in the pre-engineering or pre-natural-science track and enter their major after the freshman stage, based on ASTU's placement rules (ask the Registrar for the current rules).
+8. Admission and Placement
+Undergraduate admission: ASTU's admissions announcement says selection used the ASTU/Science and Technology universities entrance exam (60%) and the Grade 12 national examination result (40%). Admission guidelines are issued by the Ministry for Ethiopian science and technology universities. Details change each year [VERIFY with the current Ministry/ASTU guideline].
+Applicant portal: stu.astu.edu.et is the applicant guideline portal for Grade 12 students of the 2026 G.C. academic year applying to ASTU and AASTU.
+Registration number: On the exam/registration portal you register using your Registration (Admission) number.
+Postgraduate admission: Applies only through the university entrance examination. PhD by research began in 2008. One college reports 25 MSc and 20 PhD specializations across five departments.
+Continuing education: Applicants with ESLCE results of 2.0 or above (Grade 10 or 12) can apply under the old curriculum only; those who passed Grade 12 meeting Ministry criteria can apply under the new curriculum.
+Warning: The university states that re-entering the system after withdrawal, dropping out or dismissal by posing as a new student is illegal.
+Q: Where do I report after being placed? Report to the Registrar's office/orientation site with your placement letter and documents as instructed in your placement notice (check the current notice on www.astu.edu.et or the Telegram channel).
+Q: What documents should I bring? Typically: placement letter, Grade 12 certificate/results, ID, photos and any documents named in the placement notice [VERIFY with the current notice].
+9. Registration and Academic Calendar
+ASTU publishes an academic calendar each year (PDFs on the website). The recurring pattern in past calendars:
+• Semester registration/readmission (1st semester around October; 2nd semester around February)
+• Late registration with penalty (about two days after the normal period)
+• Classes begin the day after registration
+• Add and drop of courses about a month into the semester
+• Mid-exam week and final exam week
+• Application for re-grading shortly after grades are released
+• Summer semester for some programs
+Q: What if I miss registration? Late registration is allowed for a short window but with a penalty.
+Q: Can I contest a grade? Yes. There is a re-grading application period after each semester's results; the dates are in the academic calendar.
+Q: What are this year's dates? Check the current-year academic calendar on www.astu.edu.et or ask the Registrar. Dates shown in older calendars do not apply to new intakes.
+10. Grading, Academic Standing and Integrity
+• Grading rules, credit requirements and graduation requirements are defined in the ASTU Senate Legislation and the Undergraduate Study Regulations for Engineering Programs. I did not find the final official grade table in the sources used here [VERIFY with the Registrar or the Senate Legislation PDF].
+• Instructors assess through mid-exams, quizzes, assignments, lab work and final exams.
+• ASTU has an Anti-Plagiarism Policy and Guidelines. Cheating and plagiarism are prohibited acts under the Student Code of Conduct.
+• Academic appeals go through the college (ADAA) and the Educational Quality Enhancement Directorate.
+11. Academic Support
+• Academic advisors: Assigned to groups of students (ideally no more than 20) for one-to-one guidance on learning needs, progress and resources.
+• Early alert/tutoring: Programs such as EPCE are building peer tutoring, academic coaching and early-alert systems [some are planned, not guaranteed everywhere].
+• Instructor evaluation: Students have the right to evaluate instructors and courses.
+• Internships: Coordinated by your department and the college.
+12. Library
+• Open 24 hours a day, 7 days a week.
+• Services: circulation, loan, multimedia, internet, reference, documentation.
+• Separate library for female students.
+• Reserved spaces for students with disabilities; digital counter system.
+• Resources: digital library (e-books and e-journals available on the campus network), Koha online catalog (OPAC) for searching and borrowing, and a DSpace institutional repository of university-produced digital content.
+Q: Can I search for books online? Yes, through the library's Koha OPAC catalog.
+13. Student Services and Campus Life
+• Dormitories and cafeteria: Run by the Office of the Dean of Student Services (ADSS handles quality and sanitation). Housing is available. Dorm assignment procedure, room rules and meal arrangements are not detailed in the sources I found [VERIFY locally].
+• Health: On-campus health center ("higher health center") under the Dean of Student Services, with physical and psychological well-being, reproductive health, HIV/AIDS and gender-issue services.
+• Counseling and guidance: Offered by Student Services and Women and Social Affairs.
+• Recreation and sports: Sports facilities and recreation programs under DSS/ADSS. ASTU has a stadium that also serves as a national exam center.
+• Clubs and organizations: Student clubs, associations and the Student Union are chartered and administered by DSS. Examples of program-level clubs include a mechanical engineering club; engineering students often form IEEE-type, robotics and renewable-energy clubs.
+• Career development: Internship coordination and career counseling through departments, ADAA and Women and Social Affairs.
+• Safety and security: Emergency management under VPAD; students are encouraged to lock doors, secure belongings, report anything suspicious and be careful online.
+• International students: Orientation and support through the office for expatriate staff and international student affairs.
+• Financial aid: Third-party sources report financial aid/scholarships exist; Ethiopian public universities use a cost-sharing system [VERIFY amounts and rules with Student Services or the Registrar].
+14. Support for Specific Groups
+• Students with disabilities: Entitled to equal treatment. ASTU aims to make facilities accessible, relocate classes, provide alternative testing and academic help such as tutorials and extra exam or deadline time.
+• Female students: Dedicated support through the Women and Social Affairs office and the Gender Affairs Directorate, whose stated vision is to empower women and reduce gender disparity by 2030. Includes counseling and legal protection from abuse and harassment.
+• Needy students: Support through the college and the Women and Social Affairs office.
+Q: Where do I report harassment? Contact the Women and Social Affairs office or the Dean of Student Services.
+15. Student Rights and Responsibilities
+Rights: to learn and inquire; use student services; evaluate instructors; be represented in decision-making bodies; propose improvements to regulations; use facilities properly; academic freedom of expression; due process in disciplinary matters; campus security; professional development.
+Responsibilities: attend classes and exams; complete assignments, labs and projects; behave with respect, honesty and tolerance; follow university rules and national law; care for university property and be liable for damage; pay fees and share education costs under university provisions; report rule violations.
+Prohibited acts (Student Code of Conduct): instigating violence, hate speech, theft, cheating and plagiarism, disorderly conduct, and possession or use of drugs or alcohol, among others.
+Discipline: The Student Discipline Committee investigates breaches; students have the right to due process and to appeal injurious decisions.
+Q: Who do I go to with a complaint? Start with your college and the Dean of Student Services (grievance settlement). Academic appeals go to the college ADAA and EQED.
+16. Research, Industry and International Links
+• ASTU hosts international research symposia (the 5th was held 9–10 May 2025 on the circular economy).
+• Industry links: agreements with Oromia Industrial Parks Development Corporation, Adama Industrial Park, and other companies; college Industry Advisory Panels shape curricula and internships.
+• International partners: collaborations with institutions in China and Korea (e.g., EDCF project with Samsung C&T Consortium) and agreements with other Ethiopian universities and the Ethiopian Aviation University.
+• Research grants use the ASTU research grant application format, submitted via the college Research and Technology Transfer Office.
+17. Frequently Asked Questions (Quick Answers)
+Is ASTU public or private? Public.
+Where is ASTU? Adama (Nazareth), Oromia Region, Ethiopia.
+What language is instruction in? English is the medium of instruction at Ethiopian universities; confirm for your program.
+Is there a library open at night? Yes, it is open 24/7.
+Are there sports and clubs? Yes; see Section 13.
+How do I contact the Registrar? +251-221-100001 or sar@astu.edu.et.
+Where do I find the academic calendar? On the ASTU website under announcements/academic calendar.
+Can I change my department? Placement into majors follows ASTU rules after the freshman stage. Ask your academic advisor and the Registrar for current procedures.
+18. Known Gaps (Add These Before Deploying)
+The sources did not clearly provide the following. Add official answers so the assistant does not guess:
+1. Current-year registration dates and the new-student reporting dates and required documents
+2. Cost-sharing amounts, fees, and scholarship rules
+3. Dormitory allocation rules, room capacity, what to bring, cafeteria meal rules
+4. Official grade scale, GPA rules, dismissal and warning thresholds, graduation requirements
+5. Transport, off-campus housing and local costs in Adama
+6. Clinic hours and health insurance details
+7. Campus map and building directory
+8. Lists of active clubs and sports teams
+9. Current officeholders (president, vice presidents, deans)
+10. Telecom, internet and portal access instructions for students
+19. RAG Usage Notes
+• Chunk by ## section; keep Q&A items together.
+• Treat [VERIFY] items as lower confidence; the assistant should say so or refer to the Registrar.
+• If a question is not covered, the assistant should say it is not in the knowledge base and give the relevant office contact from Section 4.
+• Re-check this document at the start of each academic year.
+Sources: ASTU official website pages (schools and programs, admissions, library, student services, freshman division, offices, academic calendars), ASTU EPCE Student Support Service Handbook (2025), and third-party summaries (Wikipedia mirrors, unirank, kehulum) for history and size.
